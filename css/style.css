@@ -100,9 +100,9 @@ nav{
 }
 
 .menyapa h5{
-    font-family: 'Montserrat-Bold';
+    font-family : 'Montserrat', sans-serif;
     font-size   : 16px;
-    font-weight : 700;
+    font-weight : 600;
     color       : #504658;
 }
 
@@ -496,6 +496,9 @@ nav{
 }
 
 @media screen and (max-width:920px){
+    body{
+        font-family : 'Montserrat', sans-serif;
+    }
     .menyapa h5{
         font-size   : 16px;
     }
@@ -560,7 +563,7 @@ nav{
 @media screen and (max-width:700px){
     body{
         overflow-x  : hidden;
-        font-family : 'Montserrat', sans-serif; s
+        font-family : 'Montserrat', sans-serif;
     }
     .landing{
         flex-direction  : column;
