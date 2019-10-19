@@ -17,7 +17,8 @@
 
 body{
     
-    font-family : 'Montserrat', sans-serif;
+    font-family : 'Montserrat', sans-serif; 
+
 }
 
 header{
@@ -62,7 +63,7 @@ nav{
     list-style      : none;
 }
 .nav-link{
-    font-family     : 'Montserrat', sans-serif;
+
     color           : #CE2E6C;
     text-decoration : none;
 }
@@ -99,14 +100,13 @@ nav{
 }
 
 .menyapa h5{
-    font-family : 'Montserrat', sans-serif;
+    font-family: 'Montserrat-Bold';
     font-size   : 16px;
     font-weight : 500;
     color       : #504658;
 }
 
 .menyapa h1{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 65px;
     font-weight :bold;
     margin-top  : 23px;
@@ -114,7 +114,6 @@ nav{
 }
 
 .menyapa p{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 16px;
     font-weight : 400;
     margin-top  : 23px;
@@ -160,7 +159,6 @@ nav{
 }
 
 .title-mb h1{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 65px;
     font-weight : bold;
     color       : #504658;
@@ -176,7 +174,6 @@ nav{
 }
 
 .isi-biography p{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 16px;
     font-weight : 400;
     line-height : 35px;
@@ -216,7 +213,6 @@ nav{
 }
 
 .title-ms h1{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 65px;
     font-weight : bold;
     color       : #504658;
@@ -249,7 +245,6 @@ nav{
 }
 
 .skill-first li p{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 16px;
     font-weight : 400;
     color       : #8F8F8F;
@@ -283,7 +278,6 @@ nav{
 }
 
 .title-mw h1{
-    font-family     : 'Montserrat', sans-serif;
     font-size       : 65px;
     font-weight     : bold;
     color           : #504658;
@@ -347,7 +341,6 @@ nav{
     
 }
 .isi-motto h1{
-    font-family : 'Montserrat', sans-serif;
     margin-top  : 50px;
     padding     : 10px;
     height      : 80px;
@@ -357,7 +350,6 @@ nav{
 }
 
 .isi-motto p{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 28px;
     font-weight : 600;
     color       : #504658;
@@ -366,7 +358,6 @@ nav{
 }
 
 .isi-motto h6{
-    font-family     : 'Montserrat', sans-serif;
     margin-top      : 80px;
     margin-bottom   : 50px;
     font-size       : 21px;
@@ -403,7 +394,6 @@ nav{
 }
 
 .isi-hire-me h3{
-    font-family : 'Montserrat', sans-serif;
     font-size   : 36px;
     font-weight : 400;
     color       : white;
@@ -451,7 +441,6 @@ nav{
     flex    : 1;
 }
 .no-telp h1{
-    font-family : 'Montserrat', sans-serif;
     color       : #CE2E6C;
     font-size   : 21px;
     font-weight : 600;
@@ -461,7 +450,6 @@ nav{
     flex    : 1;
 }
 .my-email h1{
-    font-family : 'Montserrat', sans-serif;
     color       : #CE2E6C;
     font-size   : 21px;
     font-weight : 600;
@@ -485,7 +473,6 @@ nav{
     
 }
 .cp h4{
-    font-family : 'Montserrat', sans-serif;
     font-weight : 500;
     color       : #7f6e8d;
     opacity     : 50%;
@@ -573,7 +560,6 @@ nav{
 @media screen and (max-width:700px){
     body{
         overflow-x  : hidden;
-       
     }
     .landing{
         flex-direction  : column;
@@ -583,7 +569,6 @@ nav{
         margin-top  : 20vh;
     }   
     .menyapa h1 br{
-        font-family : 'Montserrat', sans-serif;
         display     : none;
     }
     .my-biography{
@@ -598,11 +583,9 @@ nav{
         text-align  : justify;
     }
     .isi-biography p{
-        font-family : 'Montserrat', sans-serif;
         margin-top  : 20px;
     }
     .my-biography h1{
-        font-family : 'Montserrat', sans-serif;
         margin-top  : 50px;
         font-size   : 28px;
     }
@@ -619,7 +602,6 @@ nav{
         display     : none;
     }
     .my-skill h1{
-        font-family : 'Montserrat', sans-serif;
         margin-top  : 50px;
         font-size   : 28px;
     }
@@ -635,22 +617,18 @@ nav{
         
     }
     .skill-first ul li h2{
-        font-family     : 'Montserrat', sans-serif;
         font-size       : 16px;
     }
     .skill-first ul li p{
-        font-family     : 'Montserrat', sans-serif;
         font-size       : 12px;
     }
     .skill-first ul img{
         transform       : scale(0.9);
     }
     .title-mw h1{
-        font-family     : 'Montserrat', sans-serif;
         margin-top      : 3vh;
     }   
     .my-works h1{
-        font-family     : 'Montserrat', sans-serif;
         font-size       : 28px;
     }
     .isi-works ul img{
