@@ -550,8 +550,11 @@ nav{
 }
 
 @media screen and (max-width:700px){
-    body{
+    html{
         overflow-x  : hidden;
+    }
+    body{
+        
         font-family : 'Montserrat', sans-serif;
     }
     .landing{
