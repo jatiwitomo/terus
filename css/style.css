@@ -573,7 +573,7 @@ nav{
 @media screen and (max-width:700px){
     body{
         overflow-x  : hidden;
-        font-family : 'Montserrat', sans-serif;
+       
     }
     .landing{
         flex-direction  : column;
@@ -583,6 +583,7 @@ nav{
         margin-top  : 20vh;
     }   
     .menyapa h1 br{
+        font-family : 'Montserrat', sans-serif;
         display     : none;
     }
     .my-biography{
@@ -597,9 +598,11 @@ nav{
         text-align  : justify;
     }
     .isi-biography p{
+        font-family : 'Montserrat', sans-serif;
         margin-top  : 20px;
     }
     .my-biography h1{
+        font-family : 'Montserrat', sans-serif;
         margin-top  : 50px;
         font-size   : 28px;
     }
@@ -616,6 +619,7 @@ nav{
         display     : none;
     }
     .my-skill h1{
+        font-family : 'Montserrat', sans-serif;
         margin-top  : 50px;
         font-size   : 28px;
     }
@@ -631,18 +635,22 @@ nav{
         
     }
     .skill-first ul li h2{
+        font-family     : 'Montserrat', sans-serif;
         font-size       : 16px;
     }
     .skill-first ul li p{
+        font-family     : 'Montserrat', sans-serif;
         font-size       : 12px;
     }
     .skill-first ul img{
         transform       : scale(0.9);
     }
     .title-mw h1{
+        font-family     : 'Montserrat', sans-serif;
         margin-top      : 3vh;
     }   
     .my-works h1{
+        font-family     : 'Montserrat', sans-serif;
         font-size       : 28px;
     }
     .isi-works ul img{
