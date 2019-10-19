@@ -4,17 +4,6 @@
     box-sizing  : border-box;
 }
 
-
-/* @font-face {
-    font-family : 'Montserrat';
-    font-family : 'Righteous';
-    src: url('../font/Montserrat-Bold.ttf') format('truetype'); 
-    src: url('../font/Montserrat-Medium.ttf') format('truetype');
-    src: url('../font/Montserrat-Regular.ttf') format('truetype');
-    src: url('../font/Montserrat-SemiBold.ttf') format('truetype');
-    src: url('../font/Righteous-Regular.ttf') format('truetype');
-} */
-
 body{
     
     font-family : 'Montserrat', sans-serif; 
@@ -590,7 +579,6 @@ nav{
         margin-top  : 20px;
     }
     .my-biography h1{
-        font-family : 'Montserrat', sans-serif; 
         margin-top  : 50px;
         font-size   : 28px;
     }
